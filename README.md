@@ -50,12 +50,12 @@ To install and use this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/session-management-multiple-tabs.git
+   git clone https://github.com/Ivanruii/react-session-control.git
    ```
 
 2. Install the dependencies:
    ```bash
-   cd session-management-multiple-tabs
+   cd react-session-control
    npm install
    ```
 
